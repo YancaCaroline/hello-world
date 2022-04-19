@@ -1,2 +1,2 @@
 # hello-world
-Olá Mundo!
+Trata-se de uma atividade da turma sete de desenvolvimento de software da Cubos Academy!
